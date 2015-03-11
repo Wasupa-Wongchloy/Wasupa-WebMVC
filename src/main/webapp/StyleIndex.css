@@ -1,0 +1,79 @@
+#btninsert{
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 50px;
+    top: 80px;
+}
+#btnedit{
+    position: absolute;
+    width: 100px;
+    height: 30px;
+    left: 160px;
+    top: 80px;
+}
+
+#h{
+    position: absolute;
+    left: 50px;
+    top: -5px;
+}
+#lasearch{
+    position: absolute;
+    left: 50px;
+    top: 105px;
+}
+#insearch{
+    position: absolute;
+    width: 300px;
+    height: 15px;
+    top: 125px;
+    left: 110px;
+}
+#searchselect{
+    position: absolute;
+    top: 125px;
+    left: 420px;
+    height: 20px;
+}
+#btnsearch{
+    position: absolute;
+    top: 125px;
+    left: 490px;
+    height: 20px;
+    width: 100px;
+}
+table{
+    border-collapse: collapse;
+    margin-top: 170px;
+    left: 50px;
+    position: absolute;
+}
+
+td, th{
+    padding: 10px;
+}
+
+td{
+    border : solid 1px #eee;
+    width: 70px;
+}
+
+thead > tr{
+    background-color: #fafafa;
+}
+.tdno{
+    width: 60px;
+}
+.tdfirst,.tdlast,.tdphone{
+    width: 160px;
+}
+.tdemail{
+    width: 230px;
+}
+.tdmodify{
+    width: 110px;
+}
+.tdsalary,.tdid{
+    width: 90px;
+}
